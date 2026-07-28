@@ -1,4 +1,3 @@
-```markdown
 # <span style="color:#A33BFF">RUSLAN PEARL</span>
 
 <div align="center">
