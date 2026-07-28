@@ -101,8 +101,12 @@ just because the charts looked too good to stay in a notebook
 </div>
 
 ------
-<div>
+<div align="center">
 
-**Portfolio Loading** <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=24&duration=800&pause=0&color=A33BFF&center=true&vCenter=true&width=300&height=40&lines=%E2%96%88+%E2%96%91+%E2%96%91;%E2%96%91+%E2%96%88+%E2%96%91;%E2%96%91+%E2%96%91+%E2%96%88;%E2%96%91+%E2%96%88+%E2%96%91" alt="Loading Movement" />
+**Portfolio Loading**
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=24&duration=1000&pause=100&color=A33BFF&center=true&vCenter=true&width=300&height=40&lines=%E2%96%88;%E2%96%88+%E2%96%88;%E2%96%88+%E2%96%88+%E2%96%88;%E2%96%88+%E2%96%88+%E2%96%88+%E2%96%88" alt="Loading Movement" />
 
 </div>
