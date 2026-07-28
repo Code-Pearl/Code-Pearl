@@ -100,22 +100,9 @@ just because the charts looked too good to stay in a notebook
 
 </div>
 
----
+------
 
 <div align="center">
-
-**Portfolio Loading<span style="color:#A33BFF">...</span>**
-
-<br>
-
-<span style="color:#A33BFF; font-size: 24px;">■</span>
-
-</div>
-
----
-
-<div align="center">
-
 
 **Portfolio Loading**
 
