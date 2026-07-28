@@ -104,24 +104,12 @@ just because the charts looked too good to stay in a notebook
 <div align="center">
 
 **Portfolio Loading**
-<html>
-<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .block {
-      animation: bounce 1.2s ease-in-out infinite;
-    }
-    .b1 { animation-delay: 0s; }
-    .b2 { animation-delay: 0.2s; }
-    .b3 { animation-delay: 0.4s; }
+<div align="center">
 
-    @keyframes bounce {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-12px); }
-    }
-  </style>
+**Portfolio Loading**
 
-  <rect class="block b1" x="10" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
-  <rect class="block b2" x="50" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
-  <rect class="block b3" x="90" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
-</svg>
-</html>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A33BFF&center=true&vCenter=true&width=200&height=30&lines=%E2%96%88+%E2%96%88+%E2%96%88;%E2%96%88+%E2%96%88;%E2%96%88;%E2%96%88+%E2%96%88;%E2%96%88+%E2%96%88+%E2%96%88" alt="Loading Animation" />
+
+</div>
