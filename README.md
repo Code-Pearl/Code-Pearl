@@ -1,8 +1,8 @@
 <div align="center">
-# <span style="color:#A33BFF">RUSLAN PEARL</span>
+
+<h1 style="color: #A33BFF; font-size: 2.5em;">RUSLAN PEARL</h1>
 
 <br>
-
 
 ### DIGITAL DESIGNER & WEB SPECIALIST  
 **FOCUSED ON BUSINESS OPERATIONS**
