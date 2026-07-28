@@ -104,6 +104,7 @@ just because the charts looked too good to stay in a notebook
 <div align="center">
 
 **Portfolio Loading**
+<html>
 <svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
   <style>
     .block {
@@ -123,4 +124,4 @@ just because the charts looked too good to stay in a notebook
   <rect class="block b2" x="50" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
   <rect class="block b3" x="90" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
 </svg>
-<div>
+</html>
