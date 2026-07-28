@@ -1,5 +1,5 @@
 <div align="center">
-#<span style="color:#A33BFF">RUSLAN PEARL</span>
+# <span style="color:#A33BFF">RUSLAN PEARL</span>
 
 <br>
 
@@ -104,18 +104,19 @@ just because the charts looked too good to stay in a notebook
 <div align="center">
 
 **Portfolio Loading**
+<div align="center">
+
+**Portfolio Loading**
 
 <br>
 
-<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
-  <rect x="10" y="15" width="20" height="20" rx="4" fill="#A33BFF">
-    <animate attributeName="y" values="15; 2; 15" dur="1s" begin="0s" repeatCount="indefinite" />
-  </rect>
-  <rect x="50" y="15" width="20" height="20" rx="4" fill="#A33BFF">
-    <animate attributeName="y" values="15; 2; 15" dur="1s" begin="0.2s" repeatCount="indefinite" />
-  </rect>
-  <rect x="90" y="15" width="20" height="20" rx="4" fill="#A33BFF">
-    <animate attributeName="y" values="15; 2; 15" dur="1s" begin="0.4s" repeatCount="indefinite" />
+<svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
+  <!-- Track outline -->
+  <rect x="10" y="10" width="100" height="10" rx="5" fill="#2D2D2D" />
+  
+  <!-- Moving indicator -->
+  <rect x="10" y="10" width="30" height="10" rx="5" fill="#A33BFF">
+    <animate attributeName="x" values="10; 80; 10" dur="1.8s" repeatCount="indefinite" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" calcMode="spline" />
   </rect>
 </svg>
 
