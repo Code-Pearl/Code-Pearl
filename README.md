@@ -1,6 +1,8 @@
+<div align="center">
 # <span style="color:#A33BFF">RUSLAN PEARL</span>
 
-<div align="center">
+<br>
+
 
 ### DIGITAL DESIGNER & WEB SPECIALIST  
 **FOCUSED ON BUSINESS OPERATIONS**
@@ -100,13 +102,21 @@ just because the charts looked too good to stay in a notebook
 
 ---
 
-<div align="center">
-
-**Portfolio Loading<span style="color:#A33BFF">...</span>**
+**Portfolio Loading**
 
 <br>
 
-<span style="color:#A33BFF; font-size: 24px;">■</span>
+<svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="5" width="20" height="20" fill="#A33BFF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="50" y="5" width="20" height="20" fill="#A33BFF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="90" y="5" width="20" height="20" fill="#A33BFF">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 </div>
-```
+
