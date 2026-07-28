@@ -104,17 +104,7 @@ just because the charts looked too good to stay in a notebook
 <div align="center">
 
 **Portfolio Loading**
-<div align="center">
-
-**Portfolio Loading**
-
-<br>
-
-<svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg">
-  <!-- Track outline -->
-  <rect x="10" y="10" width="100" height="10" rx="5" fill="#2D2D2D" />
-
-  <svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="40" viewBox="0 0 120 40" xmlns="http://www.w3.org/2000/svg">
   <style>
     .block {
       animation: bounce 1.2s ease-in-out infinite;
@@ -133,12 +123,4 @@ just because the charts looked too good to stay in a notebook
   <rect class="block b2" x="50" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
   <rect class="block b3" x="90" y="15" width="20" height="20" rx="4" fill="#A33BFF" />
 </svg>
-
-  
-  <!-- Moving indicator -->
-  <rect x="10" y="10" width="30" height="10" rx="5" fill="#A33BFF">
-    <animate attributeName="x" values="10; 80; 10" dur="1.8s" repeatCount="indefinite" keyTimes="0; 0.5; 1" keySplines="0.42 0 0.58 1; 0.42 0 0.58 1" calcMode="spline" />
-  </rect>
-</svg>
-
-</div>
+<div>
